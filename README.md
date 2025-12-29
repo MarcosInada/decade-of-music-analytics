@@ -6,7 +6,7 @@ Dashboard interativo no Power BI para análise estratégica de tendências, perf
  Visão Geral do Projeto
 Este dashboard interativo foi desenvolvido no Power BI para analisar as tendências do mercado musical global no Spotify ao longo da última década. O objetivo foi transformar dados brutos de streaming em insights estratégicos para produtores e executivos da indústria fonográfica, cruzando métricas sonoras com performance comercial.
 
-#  Imagem do deshboard: 
+#  Imagem do projeto: 
 ![Visão Geral]( visao.png)
 ![DNA Técnico]( DNA_2.png)
 ![Mapa Global]( mapa.png)
