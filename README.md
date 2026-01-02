@@ -57,5 +57,6 @@ Marcos Inada
 Analista de Dados | Power BI | Insights de Mercado
 
 LinkedIn: [https://www.linkedin.com/in/marcosinada/]
+
 E-mail: marcoscorleone1985@gmail.com
 
