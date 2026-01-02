@@ -10,7 +10,7 @@ Este dashboard interativo foi desenvolvido no Power BI para analisar as tendênc
 ![Visão Geral]( visao.png)
 ![DNA Técnico]( DNA_2.png)
 ![Mapa Global]( mapa.png)
-![Auditoria de Volumes]( auditório.png) 
+![Volume](auditório.png) 
 
 # Estrutura do Dashboard
 O relatório está dividido em 4 visões complementares:
