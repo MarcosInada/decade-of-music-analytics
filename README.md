@@ -25,6 +25,7 @@ Análise Geográfica e Temporal: Mapa global de popularidade e evolução dos g�
 Auditoria de Volumes: Visão técnica do inventário, totalizando 18 bilhões de streams e 69 mil músicas.
 ________________________________________
 # Insights Estratégicos por Página
+
 ## Página 1: Visão Geral e Performance
 Estabilidade Sonora: A análise revelou uma forte correlação entre Danceability e Energia. Apesar de oscilações anuais, o mercado favorece músicas que equilibram ritmo e intensidade de forma constante.
 Divergência de Perfil nos Top Artistas: Os líderes de popularidade, Michael Smith e Michael Johnson, desafiam a média global. Smith prioriza Energia (0.50), enquanto Johnson domina com alta Dançabilidade (0.52) e energia reduzida (0.39), provando que diferentes nichos coexistem no topo.
@@ -38,8 +39,9 @@ Redução no Tempo de Atenção: A tendência descendente na duração média da
 ## Página 3: Mapa Global e Tendências Regionais
 Geografia do Consumo: A América do Norte é o principal motor de popularidade, seguida por mercados estratégicos na Europa e Austrália.
 Fluidez dos Gêneros (Ribbon Chart): Identificou-se alta volatilidade e "dança das cadeiras" entre Pop, Hip-Hop e Metal, provando que a preferência do público é cíclica e dinâmica.
-## Página 4: Auditoria de Volumes e Inventário	Escala de Dados: Com 18 bilhões de streams e 69 mil faixas, o projeto possui uma base estatística robusta para as tendências apresentadas.
-	Motor de Engajamento: O Hip-Hop consolidou-se como o líder em volume bruto, gerando sozinho 1.9 bilhões de reproduções.
+## Página 4: Auditoria de Volumes e Inventário	Escala de Dados:
+Com 18 bilhões de streams e 69 mil faixas, o projeto possui uma base estatística robusta para as tendências apresentadas.
+Motor de Engajamento: O Hip-Hop consolidou-se como o líder em volume bruto, gerando sozinho 1.9 bilhões de reproduções.
 # Origem dos Dados
 Os dados utilizados neste projeto são de caráter fictício e foram extraídos da plataforma Kaggle. O conjunto de dados foi selecionado para simular um cenário real de streaming global, permitindo a exploração de grandes volumes de informações (Big Data) e a aplicação de técnicas avançadas de BI.
 
