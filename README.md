@@ -3,10 +3,10 @@ Dashboard interativo no Power BI para análise estratégica de tendências, perf
 
 
  # Spotify Global Insights: A Década de Ouro (2015-2025) 
- Visão Geral
+ ###### Visão Geral
 Este dashboard interativo foi desenvolvido para analisar as tendências do mercado musical global no Spotify ao longo da última década. O projeto foca em identificar como características técnicas (BPM, Energia, Dançabilidade) influenciam a popularidade dos artistas e a evolução dos gêneros musicais.
 
-Objetivo: Analisar a correlação entre métricas sonoras e sucesso de mercado.
+###### Objetivo: Analisar a correlação entre métricas sonoras e sucesso de mercado.
 Público-alvo: Produtores musicais, Executivos de Gravadoras e Analistas de Mercado.
 Fonte de Dados: Dados fictícios extraídos da plataforma Kaggle, simulando um cenário real de Big Data.
  
@@ -52,7 +52,10 @@ Power Query: Utilizado para a limpeza, transformação e normalização dos dado
 Design de UI/UX: Implementação de tema Dark Mode com estética neon, otimizando a legibilidade e a experiência do usuário.
 
 ✍️ Autor
-Marcos Inada
+Marcos Inada   
+LinkedIn: [ https://www.linkedin.com/in/marcosinada/ ]
+
+E-mail: marcoscorleone1985@gmail.com
 
 Analista de Dados | Power BI | Insights de Mercado
 
