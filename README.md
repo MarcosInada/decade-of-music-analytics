@@ -6,8 +6,10 @@ Dashboard interativo no Power BI para análise estratégica de tendências, perf
  ###### Visão Geral
 Este dashboard interativo foi desenvolvido para analisar as tendências do mercado musical global no Spotify ao longo da última década. O projeto foca em identificar como características técnicas (BPM, Energia, Dançabilidade) influenciam a popularidade dos artistas e a evolução dos gêneros musicais.
 
-###### Objetivo: Analisar a correlação entre métricas sonoras e sucesso de mercado.
-Público-alvo: Produtores musicais, Executivos de Gravadoras e Analistas de Mercado.
+###### Objetivo: 
+Analisar a correlação entre métricas sonoras e sucesso de mercado.
+###### Público-alvo: 
+Produtores musicais, Executivos de Gravadoras e Analistas de Mercado.
 Fonte de Dados: Dados fictícios extraídos da plataforma Kaggle, simulando um cenário real de Big Data.
  
  
@@ -42,6 +44,7 @@ Fluidez dos Gêneros (Ribbon Chart): Identificou-se alta volatilidade e "dança 
 ## Página 4: Auditoria de Volumes e Inventário	Escala de Dados:
 Com 18 bilhões de streams e 69 mil faixas, o projeto possui uma base estatística robusta para as tendências apresentadas.
 Motor de Engajamento: O Hip-Hop consolidou-se como o líder em volume bruto, gerando sozinho 1.9 bilhões de reproduções.
+
 # Origem dos Dados
 Os dados utilizados neste projeto são de caráter fictício e foram extraídos da plataforma Kaggle. O conjunto de dados foi selecionado para simular um cenário real de streaming global, permitindo a exploração de grandes volumes de informações (Big Data) e a aplicação de técnicas avançadas de BI.
 
@@ -59,7 +62,6 @@ E-mail: marcoscorleone1985@gmail.com
 
 Analista de Dados | Power BI | Insights de Mercado
 
-LinkedIn: [https://www.linkedin.com/in/marcosinada/]
 
-E-mail: marcoscorleone1985@gmail.com
+
 
